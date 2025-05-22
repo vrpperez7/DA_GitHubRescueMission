@@ -1,5 +1,7 @@
 # DA_GitHubRescueMission
 
+![MyImage](myimage)
+
 ## Business Problem 
 Here is my summary of the business I'm trying to solve.  Jelly Inc is interested in determining why customers are cancelling their subscriptions to Jam TV Services.  They are especially interested in the following: 
 
