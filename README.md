@@ -2,6 +2,12 @@
 
 ![MyImage](myimage)
 
+* [About Me](##about-me)
+* [Skills](#skills)
+* [Projects](#projects)
+* [Contact](#contact)
+
+
 ## Business Problem 
 Here is my summary of the business I'm trying to solve.  Jelly Inc is interested in determining why customers are cancelling their subscriptions to Jam TV Services.  They are especially interested in the following: 
 
@@ -17,7 +23,4 @@ Here is how to navigate the repo
     └── test.ipynb
 ```
 
-* [About Me](#about-me)
-* [Skills](#skills)
-* [Projects](#projects)
-* [Contact](#contact)
+## About Me
