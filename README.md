@@ -2,7 +2,7 @@
 
 ![MyImage](myimage)
 
-* [About Me](##about-me)
+* [About Me](#about-me)
 * [Skills](#skills)
 * [Projects](#projects)
 * [Contact](#contact)
