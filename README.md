@@ -8,3 +8,7 @@ Here is my summary of the business I'm trying to solve.  Jelly Inc is interested
 - Will promotions help them retain customers
 
 Here is how to navigate the repo 
+├── data/
+│   └── data.txt
+└── notebooks/
+    └── test.ipynb
