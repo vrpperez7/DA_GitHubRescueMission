@@ -1,0 +1,6 @@
+user_id,timestamp,event_type,plan_type,region,device_type,duration,content_id
+123,2023-10-26 10:00:00,play,basic,North America,web,120,movie-456
+456,2023-10-26 10:05:00,pause,premium,Europe,mobile,10,movie-456
+789,2023-10-26 10:15:00,play,basic,Asia,tablet,1800,series-123
+246,2023-10-26 10:20:00,buffer,standard,North America,web,5,movie-789
+369,2023-10-26 10:25:00,play,premium,Europe,mobile,3600,series-456
