@@ -15,3 +15,8 @@ Here is how to navigate the repo
 │   └── data.txt
 └── notebooks/
     └── test.ipynb
+
+* [About Me](#about-me)
+* [Skills](#skills)
+* [Projects](#projects)
+* [Contact](#contact)
